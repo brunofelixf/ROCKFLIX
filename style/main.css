@@ -38,7 +38,7 @@ header nav a:hover {
 /* Filme principal*/
 .filme-principal {
   font-size: 16px;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 50%), url(main/img/capa-house.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) 50%), url(https://github.com/brunofelixf/ROCKFLIX/blob/main/img/capa-house.jpg);
   height: 400px;
   background-size: cover;
 
